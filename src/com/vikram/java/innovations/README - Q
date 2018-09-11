@@ -1,0 +1,5 @@
+This is an Amazon interview Q:
+ 
+Given a Linked List, split this linked list into 2 lists such that 
+one list contains only odd numbers and the other one contains only 
+even numbers.
